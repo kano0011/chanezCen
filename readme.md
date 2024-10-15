@@ -9,3 +9,5 @@ https://kano0011.github.io/chanezCen/wikidata.html
 Modèles graphiques de dataviz : 
 
 https://kano0011.github.io/chanezCen/Food.html
+
+https://kano0011.github.io/chanezCen/Nourriture.html
