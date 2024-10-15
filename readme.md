@@ -1,3 +1,3 @@
 KANOUN CHANEZ
 
-https://github.com/kano0011/chanezCen
+https://kano0011.github.io/chanezCen/
